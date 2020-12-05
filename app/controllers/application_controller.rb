@@ -1,4 +1,5 @@
 class ApplicationController < ActionController::API
-  def test
+  def algorithm
+    
   end
 end
